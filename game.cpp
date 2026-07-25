@@ -22,3 +22,7 @@ int main() {
             std::cout << "Too low! Try again." << std::endl;
         } else {
             std::cout << "Congratulations! You guessed it in " << attempts << " attempts." << std::endl;
+        }
+    }
+    return 0;
+}
